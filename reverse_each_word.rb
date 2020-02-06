@@ -1,6 +1,6 @@
 def reverse_each_word("Hello there, and how are you?")
   
-  .each {|x|} 
+"Hello there, and how are you?" .each {|x|} 
   
     
   
